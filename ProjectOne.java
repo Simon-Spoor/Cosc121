@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Farmtest {
+public class ProjectOne {
     public static void main(String[] args) {
         farm myFarm = new farm();
         for (animal a: myFarm.getAnimals()) //move each animal by random amount
